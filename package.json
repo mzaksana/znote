@@ -1,0 +1,24 @@
+{
+  "name": "znote",
+  "version": "1.0.0",
+  "description": "notes app",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "just do it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muammarZA/znote.git"
+  },
+  "keywords": [
+    "note"
+  ],
+  "author": "mza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muammarZA/znote/issues"
+  },
+  "homepage": "https://github.com/muammarZA/znote#readme"
+}
